@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/user-age/static/js/main.64b41312.js",
+    "index.html": "/user-age/index.html",
+    "main.64b41312.js.map": "/user-age/static/js/main.64b41312.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64b41312.js"
+  ]
+}
